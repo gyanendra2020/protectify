@@ -1,0 +1,22 @@
+@import '~vue-select/src/scss/vue-select';
+
+.v-select {
+	background-color: #ffffff;
+}
+
+.vs__dropdown-option {
+	padding: 3px;
+}
+
+.vs__selected,
+.vs__search {
+	min-height: 28px;
+}
+
+.vs__clear {
+	display: flex;
+}
+
+.vs__actions {
+    padding: 4px 11px 0 3px;
+}
